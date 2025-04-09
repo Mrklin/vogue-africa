@@ -20,7 +20,7 @@ import Versace from "./Versace.png";
 import waka from "./waka.png"
 import close from "./close.svg"
 import menu from "./menu.svg"
-import stars from "./Group 9.png"
+import stars from "./stars.png"
 import AfriPoly from "./AfriPoly.png"
 import legsPoly from "./legsPoly.png"
 import gownPoly from "./gownPoly.png"
